@@ -1,7 +1,6 @@
 ## Prazer sou o **Felipe Prodóssimo**
 
 [![facebook][image-thumbs]][image-url]
-
 [![instagram][image-thumbs-01]][image-url-01]
 
 [image-thumbs]: img/facebook.png
@@ -12,7 +11,7 @@
 
 Atualmente sou estudante do Técnico em Informática no Senac Americana-SP
 
-*Projetos com:
+* Projetos com:
     * Desenvolvimento Web.
 
 <!--
