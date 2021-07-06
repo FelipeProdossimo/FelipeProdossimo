@@ -2,7 +2,7 @@
 
 [![facebook][image-thumbs]][image-url]
 [![instagram][image-thumbs-01]][image-url-01]
-[![linkedin][image-thumbs-02][image-url-02]
+[![linkedin][image-thumbs-02]][image-url-02]
 
 [image-thumbs]: img/facebook.png
 [image-url]: https://facebook.com/FelipeProdossimo
