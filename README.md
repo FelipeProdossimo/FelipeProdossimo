@@ -2,7 +2,7 @@
 
 [![facebook][image-thumbs]][image-url]
 [![instagram][image-thumbs-01]][image-url-01]
-[![linkedin][image-thumbs-02]][image-url-02]
+[![linkedin][gif-thumbs]][gif-url]
 
 [image-thumbs]: img/facebook.png
 [image-url]: https://facebook.com/FelipeProdossimo
@@ -10,8 +10,8 @@
 [image-thumbs-01]: img/instagram.png
 [image-url-01]: https://www.instagram.com/felipe.prodossimo_/
 
-[image-thumbs-02]: img/linkedin.png
-[image-url-02]: https://www.linkedin.com/in/felipe-prodossimo
+[gif-thumbs]: img/linkedin.gif
+[gif-url]: https://www.linkedin.com/in/felipe-prodossimo
 
 Atualmente sou estudante do Técnico em Informática no Senac Americana-SP
 
