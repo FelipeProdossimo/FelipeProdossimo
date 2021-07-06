@@ -10,7 +10,7 @@
 [image-thumbs-01]: img/instagram.png
 [image-url-01]: https://www.instagram.com/felipe.prodossimo_/
 
----
+_____________________________________________________________________________
 
 [image-thumbs-02]: img/linkedin.png
 [image-url-02]: https://www.linkedin.com/in/felipe-prodossimo
