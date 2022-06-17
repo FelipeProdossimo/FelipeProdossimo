@@ -29,6 +29,8 @@ Projetos com: Desenvolvimento Web - Desenvolvimento Desktop - Desenvolvimento Mo
         <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://img.icons8.com/color/344/angularjs.png">
+        <img align="center" alt="Rafa-DotNetApi" height="30" width="40" src="https://img.icons8.com/nolan/344/api-settings.png">
         <br><br>
           <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://document-export.canva.com/DLjZo/DAFDDpDLjZo/53/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220617T070744Z&X-Amz-Expires=42766&X-Amz-Signature=cd0f147402af65611ce4a6f4ae3d9bd81fc806aaaa48cc54e0439168fb2a383a&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2017%20Jun%202022%2019%3A00%3A30%20GMT">
       </div>
