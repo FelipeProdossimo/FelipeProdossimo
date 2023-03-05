@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/felipe-prodossimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/felipe.prodossimo_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-👨🏻‍🎓 Formado no Técnico em Informática no Senac Americana-SP.
+👨🏻‍🎓 Formado em Técnico em Informática no Senac Americana-SP.
    <br>
-   Cursando de Sistemas de Informação(Bacharel) na Universidade Anhembi Morumbi.
+   Cursando Sistemas de Informação (Bacharel) na Universidade Anhembi Morumbi.
    <br>
-👨🏻‍💻 Trabalhando como Desenvolvedor De Sistemas!
+👨🏻‍💻 Trabalhando como Desenvolvedor de Sistemas!
    
 Projetos com: Desenvolvimento Web - Desenvolvimento Desktop - Desenvolvimento Mobile.
 ---
